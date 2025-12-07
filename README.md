@@ -20,6 +20,10 @@ The project includes:
 |----------------|
  ![sample1](samples/sample_3.png) 
 
+| Real → Cartoon | 
+|----------------|
+ ![sample1](samples/sample_2.png) 
+ 
 More examples available in the `samples/` folder.
 
 ---
