@@ -87,8 +87,8 @@ Two full cycles are enforced using **cycle-consistency loss**.
 ---
 
 ## 📈 Training Logs
+ ![sample1](logs/training_logs.png) 
 
-All logs are in `logs/`.
 
 Example (D/G/Cycle losses over epochs):
 
