@@ -18,7 +18,7 @@ The project includes:
 
 | Real → Cartoon | Real → Cartoon |
 |----------------|----------------|
-| ![sample1](samples/sample_01.png) | ![sample2](samples/sample_02.png) |
+ ![sample1](samples/sample_1.png) 
 
 More examples available in the `samples/` folder.
 
