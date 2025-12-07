@@ -16,9 +16,9 @@ The project includes:
 
 ## 📸 Results — Before & After
 
-| Real → Cartoon | Real → Cartoon |
-|----------------|----------------|
- ![sample1](samples/sample_1.png) 
+| Real → Cartoon | 
+|----------------|
+ ![sample1](samples/sample_3.png) 
 
 More examples available in the `samples/` folder.
 
